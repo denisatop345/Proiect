@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background: #2b3d4f; /* fundal non-alb */
+    background: #2b3d4f; 
     margin: 20px;
     color: #222;
 }
@@ -12,7 +12,7 @@ h1, h2 {
 
 .container {
     width: 900px;
-    background: rgba(255, 255, 255, 0.90); /* opacitate */
+    background: rgba(255, 255, 255, 0.90); 
     padding: 20px;
     margin: auto;
     border: 2px solid #c96;
@@ -52,3 +52,4 @@ img.rounded {
 #static-images img {
     margin: 10px;
 }
+
